@@ -15,7 +15,7 @@ from datetime import datetime
 import base64
 
 # Configure Gemini API
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+genai.configure(api_key="AIzaSyBDH5HjKT6N_sCF3QIGOzuHN2roSCH7TVs")
 # Model classes
 CONDITION_CLASSES = ["Dark Spots", "Normal", "Puffy Eyes", "Wrinkles"]
 SKIN_TYPE_CLASSES = ['Acne', 'Dry', 'Oily']
