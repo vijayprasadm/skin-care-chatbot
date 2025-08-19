@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+pillow
+google-generativeai
+SpeechRecognition
+pyttsx3
+fpdf
